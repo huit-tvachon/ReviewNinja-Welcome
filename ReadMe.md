@@ -2,7 +2,6 @@
 
 **Thanks for letting us show you around!**
 
-
 What you’re seeing here is a GitHub pull request with the code diffs
 showing by default. Feel free to look around.
 
